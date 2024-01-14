@@ -1,0 +1,5 @@
+ril logo: 00582c
+lia logo: d33139
+evc blå: 192a66
+nbtf lyseblå: 0285b3
+evc rød: d70926
