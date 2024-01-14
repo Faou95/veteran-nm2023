@@ -51,7 +51,7 @@
             height: 450px;
             object-fit: cover;
             margin: auto;"
-                 src="/src/assets/Sukkevannshallen.jpeg" alt="Hovedhall 1" title="Hovedhall 1"
+                 src="/src/assets/Sukkevannshallen.jpeg" alt="Sukkevannshallen" title="Sukkevannshallen"
             >
 
           </div>
@@ -63,7 +63,7 @@
             height: 400px;
             object-fit: cover;
             margin: auto;"
-                 src="/src/assets/hall2.jpg" alt="Hovedhall 1" title="Hovedhall 1"
+                 src="/src/assets/hall2.jpg" alt="Hovedhall 2" title="Hovedhall 2"
             >
 
             <div style="flex: 1; margin-top: 50px" >

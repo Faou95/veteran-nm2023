@@ -41,13 +41,15 @@
           Det er rikelig med parkeringsplasser rundt hallen. Så det bør være god plass til alle
           som kommer med egen bil.</p>
 
-        <div style="
-          background-image: url('src/assets/Sukkevannshallen.jpeg');
-          background-position: center;
-          background-size: cover;
-          height: 200px;
-          width: 100%;
-          "></div>
+        <img style="
+            display: block;
+            height: 200px;
+            object-fit: cover;
+            margin: 25px auto;
+            width: 100%;
+            "
+             src="/src/assets/Sukkevannshallen.jpeg" alt="Sukkevannshallen" title="Sukkevannshallen"
+        >
       </div>
 
 
@@ -67,7 +69,7 @@ export default {
 
     .header {
       height: 100px;
-      background-image: url("src/assets/tablet-header.png");
+      background-image: url("/src/assets/tablet-header.png");
       background-position: center center;
       background-repeat: no-repeat;
       width: 100%;
@@ -85,7 +87,7 @@ export default {
 
     .ril {
       height: 100px;
-      background-image: url("src/assets/ril-tablet.png");
+      background-image: url("/src/assets/ril-tablet.png");
       position: absolute;
       width: 170px;
       left: 0;
@@ -94,7 +96,7 @@ export default {
 
     .lia {
       height: 100px;
-      background-image: url("src/assets/lia-tablet.png");
+      background-image: url("/src/assets/lia-tablet.png");
       position: absolute;
       width: 170px;
       right: 0;

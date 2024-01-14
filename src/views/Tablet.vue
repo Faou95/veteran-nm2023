@@ -22,7 +22,7 @@ export default {
   .tablet {
     .header {
       height: 100px;
-      background-image: url("src/assets/tablet-header.png");
+      background-image: url("/src/assets/tablet-header.png");
       background-position: center center;
       background-repeat: no-repeat;
       width: 100%;
@@ -39,7 +39,7 @@ export default {
 
     .ril {
       height: 100px;
-      background-image: url("src/assets/ril-tablet.png");
+      background-image: url("/src/assets/ril-tablet.png");
       position: absolute;
       width: 170px;
       left: 0;
@@ -48,7 +48,7 @@ export default {
 
     .lia {
       height: 100px;
-      background-image: url("src/assets/lia-tablet.png");
+      background-image: url("/src/assets/lia-tablet.png");
       position: absolute;
       width: 170px;
       right: 0;
