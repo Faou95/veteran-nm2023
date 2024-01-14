@@ -45,27 +45,26 @@
               </div>
 
             </div>
-
-            <div style="
-          flex: 1.5;
-          background-image: url('/src/assets/Sukkevannshallen.jpeg');
-          background-position: center;
-          background-size: cover;
-          height: 450px;
-          width: 100%;
-          "></div>
+            <img style="
+            flex: 1.5;
+            display: block;
+            height: 450px;
+            object-fit: cover;
+            margin: auto;"
+                 src="/src/assets/Sukkevannshallen.jpeg" alt="Hovedhall 1" title="Hovedhall 1"
+            >
 
           </div>
 
           <div class="flex-container" style="margin: 40px 0">
-
-            <div style="
-          flex: 1.5;
-          background-image: url('/src/assets/hall2.jpg');
-          background-position: center;
-          background-size: cover;
-          height: 400px;
-          "></div>
+            <img style="
+            flex: 1.5;
+            display: block;
+            height: 400px;
+            object-fit: cover;
+            margin: auto;"
+                 src="/src/assets/hall2.jpg" alt="Hovedhall 1" title="Hovedhall 1"
+            >
 
             <div style="flex: 1; margin-top: 50px" >
               <div style="width: 90%; margin: auto">
@@ -86,14 +85,14 @@
                   Samme som hall 2 så har hall 1 også parkettdekke på 20 x 40 meter og tribunekapasitet til 300 personer.</p>
               </div>
             </div>
-
-            <div style="
+            <img style="
             flex: 1;
-            background-image: url('/src/assets/hall1.jpg');
-            background-position: center;
-            background-size: cover;
+            display: block;
             height: 400px;
-            "></div>
+            object-fit: cover;
+            margin: auto;"
+                 src="/src/assets/hall1.jpg" alt="Hovedhall 1" title="Hovedhall 1"
+            >
           </div>
         </div>
 
