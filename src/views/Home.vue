@@ -116,7 +116,7 @@
           object-fit: cover;
           margin: auto;
         "
-             src="src/assets/scandic.jpg" alt="Bilde av: Tord-Erik Andersen" title="Bilde av: Tord-Erik Andersen"
+             src="/src/assets/scandic.jpg" alt="Bilde av: Tord-Erik Andersen" title="Bilde av: Tord-Erik Andersen"
         >
 
         <p style="width: 80%; margin: 50px auto 0 auto">Velkommen til Scandic Kristiansand Bystranda, hotellet som vant prisen for regionens beste hotellfrokost i 2023! Bo sentralt og familievennlig midt på populære Bystranda, nær sentrum, shopping og restauranter.
