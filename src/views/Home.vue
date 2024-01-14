@@ -218,7 +218,7 @@ export default {
 
       .header {
         height: 275px;
-        background-image: url("src/assets/header-image.png");
+        background-image: url("/src/assets/header-image.png");
         background-position: center center;
         background-repeat: no-repeat;
         width: 100%;
@@ -226,7 +226,7 @@ export default {
 
       .ril {
         height: 275px;
-        background-image: url("src/assets/ril-logo.png");
+        background-image: url("/src/assets/ril-logo.png");
         position: absolute;
         width: 441px;
         left: 0;
@@ -235,7 +235,7 @@ export default {
 
       .lia {
         height: 275px;
-        background-image: url("src/assets/lia-logo.png");
+        background-image: url("/src/assets/lia-logo.png");
         position: absolute;
         width: 430px;
         right: 0;
