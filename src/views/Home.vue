@@ -48,7 +48,7 @@
 
             <div style="
           flex: 1.5;
-          background-image: url('src/assets/Sukkevannshallen.jpeg');
+          background-image: url('/src/assets/Sukkevannshallen.jpeg');
           background-position: center;
           background-size: cover;
           height: 450px;
@@ -61,8 +61,7 @@
 
             <div style="
           flex: 1.5;
-          background-color: blue;
-          background-image: url('src/assets/hall2.jpg');
+          background-image: url('/src/assets/hall2.jpg');
           background-position: center;
           background-size: cover;
           height: 400px;
@@ -90,7 +89,7 @@
 
             <div style="
             flex: 1;
-            background-image: url('src/assets/hall1.jpg');
+            background-image: url('/src/assets/hall1.jpg');
             background-position: center;
             background-size: cover;
             height: 400px;
