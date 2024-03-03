@@ -23,6 +23,18 @@
         </v-btn>
       </p>
 
+      <p style="text-align: center; margin-top: 100px">
+        På resultatsiden finner du trekking og alle resultater for Veteran NM 2024<br>
+        <v-btn
+          height="65px"
+          width="200px"
+          style="margin-top: 10px; font-size: 20px"
+          variant="outlined"
+          text="Resultatside"
+          href="https://resultat.ondata.se/001083/">
+        </v-btn>
+      </p>
+
       <v-divider
         style="margin: 50px 0"
         thickness="10"

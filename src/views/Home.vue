@@ -23,6 +23,18 @@
           </v-btn>
         </p>
 
+        <p style="text-align: center; margin-top: 100px">
+          På resultatsiden finner du trekking og alle resultater for Veteran NM 2024<br>
+          <v-btn
+            height="65px"
+            width="200px"
+            style="margin-top: 10px; font-size: 20px"
+            variant="outlined"
+            text="Resultatside"
+            href="https://resultat.ondata.se/001083/">
+          </v-btn>
+        </p>
+
         <v-divider
           style="margin: 50px 0"
           thickness="10"
@@ -33,46 +45,56 @@
 
         <div style="width: 90%; margin: auto">
           <div class="flex-container">
-
-            <div style="flex: 1; margin-top: 25px">
-              <div style="width: 90%; margin: auto">
-                <h2 style="color: white; font-size: 30px; text-align: center">Sukkevannhallen</h2>
-                <p style="text-align: center; font-size: 18px">Dvergsnesveien 27, 4638 Kristiansand</p>
-                <p style="margin-top: 50px; font-size: 20px">Sukkevannhallen er delt opp i 2 hovedhaller ved siden av hverandre med plass til 16 hager per hall. <br> <br>
-                  I hallen finner du også en bemannet kiosk med masse godsaker!<br><br>
-                  Det er rikelig med parkeringsplasser rundt hallen. Så det bør være god plass til alle
-                  som kommer med egen bil.</p>
+            <div style="flex: 1">
+              <div style="flex: 1; margin-top: 25px">
+                <div style="width: 90%; margin: auto">
+                  <h2 style="color: white; font-size: 30px; text-align: center">Sukkevannhallen</h2>
+                  <p style="text-align: center; font-size: 18px">Dvergsnesveien 27, 4638 Kristiansand</p>
+                  <p style="margin-top: 50px; font-size: 20px">Sukkevannhallen er delt opp i 2 hovedhaller ved siden av hverandre med plass til 16 hager per hall. <br> <br>
+                    I hallen finner du også en bemannet kiosk med masse godsaker!<br><br>
+                    Det er rikelig med parkeringsplasser rundt hallen. Så det bør være god plass til alle
+                    som kommer med egen bil.</p>
+                </div>
               </div>
-
             </div>
-            <img style="
-            flex: 1.5;
+
+            <div style="flex: 1.5">
+              <img style="
+            width: 100%;
+            flex: 1;
             display: block;
             height: 450px;
             object-fit: cover;
             margin: auto;"
-                 src="/src/assets/Sukkevannshallen.jpeg" alt="Sukkevannshallen" title="Sukkevannshallen"
-            >
-
+                   src="/src/assets/Sukkevannshallen.jpeg" alt="Sukkevannshallen" title="Sukkevannshallen"
+              >
+            </div>
           </div>
 
-          <div class="flex-container" style="margin: 40px 0">
-            <img style="
-            flex: 1.5;
-            display: block;
-            height: 400px;
-            object-fit: cover;
-            margin: auto;"
-                 src="/src/assets/hall2.jpg" alt="Hovedhall 2" title="Hovedhall 2"
-            >
 
-            <div style="flex: 1; margin-top: 50px" >
-              <div style="width: 90%; margin: auto">
-                <h2 style="color: white; font-size: 30px; text-align: center">Hovedhall 2</h2>
-                <p style="margin-top: 40px; font-size: 20px">Hovedhall 2 er den nyere av de 2 hallene. Hallen ligger vegg i vegg med Hovedhall 1.<br> <br>
-                  Idrettshallen har parkettdekke på 20 x 40 meter og tribunekapasitet til 300 personer.</p>
+          <div class="flex-container" style="margin: 40px 0">
+            <div style="flex: 1.5">
+              <img style="
+              width: 100%;
+              display: block;
+              height: 400px;
+              object-fit: cover;
+              margin: auto;"
+                   src="/src/assets/hall2.jpg" alt="Hovedhall 2" title="Hovedhall 2"
+              >
+            </div>
+
+            <div style="flex: 1">
+              <div style="margin-top: 50px" >
+                <div style="width: 90%; margin: auto">
+                  <h2 style="color: white; font-size: 30px; text-align: center">Hovedhall 2</h2>
+                  <p style="margin-top: 40px; font-size: 20px">Hovedhall 2 er den nyere av de 2 hallene. Hallen ligger vegg i vegg med Hovedhall 1.<br> <br>
+                    Idrettshallen har parkettdekke på 20 x 40 meter og tribunekapasitet til 300 personer.</p>
+                </div>
               </div>
             </div>
+
+
 
           </div>
 
