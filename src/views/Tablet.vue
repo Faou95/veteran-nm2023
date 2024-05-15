@@ -95,6 +95,66 @@
       <p style="text-align: center; margin-top: 75px">Rombestilling og bankett påmelding sendes direkte til Randesund / Lia på e-post: <br>
         <span style="font-weight: bold; font-size: 27px">jens.salvesen2@gmail.com</span></p>
 
+
+      <v-divider
+        style="margin: 50px 0"
+        thickness="10"
+        color="white"
+      ></v-divider>
+
+      <h1 class="heading-text" style="padding: 0 0 20px 0">Transport</h1>
+      <h2 style="text-align: center; color: white; padding-bottom: 25px;">3x Randesund minibusser</h2>
+      <img style="
+          display: block;
+          width: 80%;
+          height: 500px;
+          object-fit: cover;
+          margin: auto;
+        "
+           src="/src/assets/minibusser.png" alt="Randesund minibusser" title="Randesund minibusser"
+      >
+
+      <p style="width: 80%; margin: 50px auto 0 auto">
+        Arrangøren stiller med tre minibusser for å transportere spillerne som ønsker det fra hotell til hallen, fra hallen til hotellet, og fra hallen til flyplassen på søndagen.
+      </p>
+
+      <p style="width: 80%; margin: 50px auto 0 auto">
+        Pris per person per tur blir 50 kroner.<br>
+        Kontaktperson: Marius Dahl (Tel. 47636158)
+      </p>
+
+
+      <h2 style="width: 80%; color: white; font-size: 30px; margin: 50px auto 25px auto">Estimerte tidspunkter</h2>
+
+      <p style="width: 80%; margin: auto">
+        <span style="font-weight: bold; font-size: 25px">Fredag 24. Mai</span><br>
+        10.30 – 12.00:	Kjøring fra hotellet til hallen. <br>
+        16.00 – 20.30:	Kjøring fra hallen til hotellet.
+      </p>
+
+      <p style="width: 80%; margin: 25px auto">
+        <span style="font-weight: bold; font-size: 25px">Lørdag 25. Mai</span><br>
+        08.30 – 10.00:	Kjøring fra hotellet til hallen.<br>
+        16.00 – 18.30:	Kjøring fra hallen til hotellet.
+      </p>
+
+      <p style="width: 80%; margin: auto">
+        <span style="font-weight: bold; font-size: 25px">Søndag 26. Mai</span><br>
+        08.30 – 12.00:	Kjøring fra hotellet til hallen.<br>
+        15.00 ->	Kjøring fra hallen til flyplassen.
+      </p>
+
+
+      <p style="width: 80%; margin: 50px auto 0 auto">
+        Det vil henge informasjonslapp både på hotellet og i hallen med litt informasjon. Bussen(e) vil stå rett på utsiden av inngangen til hotellet. Dere kan se på bildet overnfor hvordan de ser ut.
+        <br><br>
+        Betalingsform er vipps.
+      </p>
+
+
+      <!-- BOTTOM SPACER -->
+      <div style="height: 100px"></div>
+
     </div>
   </div>
 
